@@ -1,0 +1,38 @@
+{"intents": [
+        {"tag": "contact",
+         "patterns": ["Je peux téléphoner ?", "numéro téléphone", "appeler", "appeller", "appel", "apel", "apelle", "qui","comment avoir quelqu'un ?", "comment contacter quelqu'un?","joindre", "contact", "email", "e-mail", "mail", "téléphone", "envoyer un email", "contacter", "responsable", "avoir un responsable", "chef", "qui est respondable?", "coordonnées"],
+         "responses": ["Nous privilégions les échanges par mail, n'hésitez pas à nous joindre via le formulaire de contact : https://simplon.co/contact.html"],
+         "context": [""]
+        },
+        {"tag": "Mode",
+         "patterns": ["Distanciel ou présentiel ?", "Les formations sont elles disponibles en distanciel ?", "Les formations sont elles disponibles en présentiel ?", "Les formations sont elles disponibles en distanciel ?", "Comment les formations sont-elle dispensées ?","Distance", "Remote", "Présence", "formation par internet"],
+         "responses": ["Les formations peuvent être en distanciel ou présentiel selon les cas. Cette information est disponible dans l'intitulé de la formation. Retrouvez les informations sur le site : https://auvergnerhonealpes.simplon.co/candidatures.html"],
+         "context": [""]
+        },
+        {"tag": "Prix",
+         "patterns": ["Quel est le prix des formation ?","Prix ? ","Combien coûte vos formations ?","Quel charge pour vos formations ?", "Combien ça coûte ?","Financement", "Comment financer la formation ?", "CPF", "DIF"],
+         "responses": ["Les formations dispensées par Simplon sont entièrement gratuites pour les apprenant.e.s car elles sont financées par des acteurs publics : https://simplon.co/faq/gratuite"],
+         "context": [""]
+        },
+        {"tag": "Salutations",
+         "patterns": ["Bonjour","Hello","Hi","Salut","Greeting", "slt", "bjr"],
+         "responses": ["Bonjour, comment puis-je vous aider ?"],
+         "context": [""]
+        },
+        {"tag": "Formation",
+         "patterns": ["Quels sont les formations disponibles prochainement ?", "Quelle est la date d’ouverture de formation ?", "Quelles sont les formations dispensées ?", "Qu'est ce que vous proposez comme formation ?", "Quelle formation vous faites ?"],
+         "responses": ["Pour toute question concernant les formations à venir, merci de consulter la page des formations : https://auvergnerhonealpes.simplon.co/candidatures.html"],
+         "context": [""]
+        },
+        {"tag": "Identite",
+         "patterns": ["Qu'est-ce-que simplon ?", "Simplon ?", "Puis-je avoir des informations sur Simplon ?", "c'est quoi simplon ?","Qui êtes vous ?","comment avoir des informations?"],
+         "responses": ["Vous trouverez toutes les informations sur Simplon ici : https://simplon.co/a-propos.html"],
+         "context": [""]
+        },
+        {"tag": "none",
+         "patterns": [""],
+         "responses": ["Je n'ai pas compris votre question, voulez-vous des informations sur simplon ? Nos formations ?"],
+         "context": [""]
+        }
+   ]
+}
