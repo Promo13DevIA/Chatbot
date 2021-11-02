@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic/presentation</title>
+    <g id="ic/presentation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0.000000, 5.000000)" fill-rule="nonzero" id="picto-fiche6">
+            <g>
+                <rect id="Rectangle" fill="#CE0033" x="27" y="13" width="6" height="6"></rect>
+                <rect id="Rectangle" fill="#000000" x="27" y="24" width="6" height="23"></rect>
+                <path d="M30,60 C13.4623505,60 0,46.5376495 0,30 C0,13.4623505 13.4623505,0 30,0 C46.5376495,0 60,13.4623505 60,30 C60,46.5376495 46.5376495,60 30,60 Z M30,5.63687544 C16.5622801,5.63687544 5.62983814,16.5693174 5.62983814,30.0070373 C5.62983814,43.4447572 16.5622801,54.3701619 30,54.3701619 C43.4377199,54.3701619 54.3701619,43.4377199 54.3701619,30 C54.3701619,16.5622801 43.4377199,5.62983814 30,5.62983814 L30,5.63687544 Z" id="Shape" fill="#CE0033"></path>
+            </g>
+        </g>
+    </g>
+</svg>
