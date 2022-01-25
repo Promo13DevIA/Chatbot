@@ -32,7 +32,7 @@ PyYAML==5.4.1
 pyzmq==20.0.0
 QDarkStyle==2.8.1
 QtPy==1.9.0
-Rtree==0.9.4
+#Rtree==0.9.4
 scikit-learn==0.24.1
 scipy==1.5.4
 sklearn==0.0
