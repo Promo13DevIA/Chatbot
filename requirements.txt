@@ -1,3 +1,4 @@
+python == 3.2
 alabaster==0.7.12
 appdirs==1.4.4
 argh==0.26.2
@@ -8,6 +9,7 @@ black==19.10b0
 brotlipy==0.7.0
 certifi==2020.12.5
 Cython==0.29.21
+dataclasses==0.8
 docutils==0.16
 entrypoints==0.3
 Flask==1.1.2
@@ -25,6 +27,8 @@ pandas==1.1.5
 parso==0.7.0
 pathspec==0.7.0
 pluggy==0.13.1
+pywin32==227
+pywin32-ctypes==0.2.0
 PyYAML==5.4.1
 pyzmq==20.0.0
 QDarkStyle==2.8.1
